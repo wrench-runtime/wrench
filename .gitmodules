@@ -1,0 +1,9 @@
+[submodule "runtime"]
+	path = runtime
+	url = https://github.com/wrench-runtime/runtime.git
+
+[submodule "module-buffer"]
+	path = module-buffer
+	url = https://github.com/wrench-runtime/module-buffer.git
+
+
