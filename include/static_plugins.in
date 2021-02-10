@@ -1,0 +1,1 @@
+REGISTER_PLUGIN(wren_sdl2);

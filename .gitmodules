@@ -7,3 +7,6 @@
 	url = https://github.com/wrench-runtime/module-buffer.git
 
 
+[submodule "module-sdl"]
+	path = module-sdl
+	url = https://github.com/wrench-runtime/module-sdl.git
