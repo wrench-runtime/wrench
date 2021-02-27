@@ -1,2 +1,6 @@
-/bin
 /build
+/wren_modules
+/tests
+*.dll
+*.exe
+*.so

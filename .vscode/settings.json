@@ -1,3 +1,8 @@
 {
-  "cmake.configureOnOpen": true
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "*.config": "xml",
+    "argparse.h": "c",
+    "wren_runtime.h": "c"
+  }
 }

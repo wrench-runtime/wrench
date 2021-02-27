@@ -3,10 +3,26 @@
 	url = https://github.com/wrench-runtime/runtime.git
 
 [submodule "module-buffer"]
-	path = module-buffer
+	path = modules/module-buffer
 	url = https://github.com/wrench-runtime/module-buffer.git
 
 
 [submodule "module-sdl"]
-	path = module-sdl
+	path = modules/module-sdl
 	url = https://github.com/wrench-runtime/module-sdl.git
+	
+[submodule "module-gles2"]
+	path = modules/module-gles2
+	url = https://github.com/wrench-runtime/module-gles2.git
+[submodule "thirdparty/argparse"]
+	path = thirdparty/argparse
+	url = https://github.com/cofyc/argparse.git
+[submodule "module-file"]
+	path = modules/module-file
+	url = https://github.com/wrench-runtime/module-file.git
+[submodule "module-image"]
+	path = modules/module-image
+	url = https://github.com/wrench-runtime/module-image.git
+[submodule "modules/augur"]
+	path = modules/augur
+	url = https://github.com/wrench-runtime/augur.git
