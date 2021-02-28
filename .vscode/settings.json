@@ -3,6 +3,7 @@
   "files.associations": {
     "*.config": "xml",
     "argparse.h": "c",
-    "wren_runtime.h": "c"
+    "wren_runtime.h": "c",
+    "stdio.h": "c"
   }
 }
